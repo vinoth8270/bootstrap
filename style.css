@@ -1,0 +1,36 @@
+.header {
+    background-image: url(./back.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+    padding-top: 5%;
+    padding-left: 10%;
+}
+
+.footer {
+    background-image: url(./back.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+    padding-top: 4rem;
+}
+
+.announcement-bar {
+    font-size: 0.95rem;
+}
+
+.feature-card {
+    height: 100%;
+}
+
+.feature-card .card {
+    height: 260px;
+}
+
+.feature-card p {
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
+
